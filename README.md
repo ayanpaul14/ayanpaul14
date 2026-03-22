@@ -92,7 +92,7 @@ An intelligent tool built with modern web technologies and integrated AI capabil
 
 ```text
 🔨 Working On   →   SubTrack v2 • NotMon AI
-📚 Learning     →   System Design • Machine Learning • Cloud Architecture
+📚 Learning     →   System Design • Machine Learning
 💡 Expertise    →   React • Node.js • MongoDB • Firebase • Python
 📩 Reach Me     →   ayanpaul626@gmail.com
 ```
