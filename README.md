@@ -123,7 +123,6 @@ const ayan = {
   </picture>
 </div>
 
-> ⚠️ **Snake not showing?** You need the GitHub Actions workflow below — run it once to generate the SVG files.
 
 ---
 
