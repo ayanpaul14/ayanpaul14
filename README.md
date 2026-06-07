@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&repeat=true&width=600&height=50&lines=🚀+Building+Full-Stack+Web+Apps;⚡+React+%7C+Node.js+%7C+MongoDB;🤖+AI+%26+ML+Enthusiast;💡+Turning+Ideas+into+Reality;🎯+130%2B+DSA+Problems+Solved;🧠+MockMentor+AI+—+Live+Now!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&repeat=true&width=600&height=50&lines=Building+Full-Stack+Web+Apps;React+%7C+Node.js+%7C+MongoDB;AI+%26+ML+Enthusiast;Turning+Ideas+into+Reality;130%2B+DSA+Problems+Solved;MockMentor+AI+%E2%80%94+Live+Now!" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -13,8 +13,8 @@
 <div align="center">
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ayanpaul14&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS)](https://github.com/ayanpaul14)
-[![GitHub followers](https://img.shields.io/github/followers/ayanpaul14?style=for-the-badge&color=8b5cf6&labelColor=0d1117&label=FOLLOWERS)](https://github.com/ayanpaul14?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/ayanpaul14?style=for-the-badge&color=a5b4fc&labelColor=0d1117&label=TOTAL+STARS)](https://github.com/ayanpaul14)
+[![GitHub followers](https://img.shields.io/github/followers/ayanpaul14?style=for-the-badge&color=8b5cf6&label=FOLLOWERS)](https://github.com/ayanpaul14?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/ayanpaul14?style=for-the-badge&color=a5b4fc&label=TOTAL+STARS)](https://github.com/ayanpaul14)
 
 </div>
 
@@ -84,7 +84,7 @@ const ayan = {
 
 | 🚀 Project | 💡 Description | 🔧 Stack | 🌐 |
 |:---:|:---|:---:|:---:|
-| **🎯 MockMentor AI** | AI-powered mock interview platform — AI scoring, Monaco editor, heatmap, dark mode, LeetCode-style profile | `React` `Node.js` `MongoDB` `Groq LLaMA` `Three.js` | [**Live ↗**](https://mockmentor-ai.vercel.app) |
+| **🎯 MockMentor AI** | AI-powered mock interview platform — AI scoring, Monaco editor, activity heatmap, dark mode, LeetCode-style profile | `React` `Node.js` `MongoDB` `Groq LLaMA` `Three.js` | [**Live ↗**](https://mockmentor-ai.vercel.app) |
 | **📋 SubTrack** | Full-stack subscription manager with smart email alerts and analytics | `React` `Node.js` `MongoDB` | [**Live ↗**](https://subtrack-sooty.vercel.app) |
 | **🤖 NotMon AI** | AI-powered productivity and monitoring tool | `React` `Node.js` `AI` | 🔨 In Progress |
 
@@ -108,7 +108,7 @@ const ayan = {
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayanpaul14&bg_color=0d1117&color=8b5cf6&line=6366f1&point=ffffff&area=true&area_color=6366f133&hide_border=true&radius=8" width="100%" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayanpaul14&bg_color=0d1117&color=8b5cf6&line=6366f1&point=ffffff&area=true&hide_border=true&radius=8" width="100%" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -122,7 +122,6 @@ const ayan = {
     <img alt="Snake Animation" src="https://raw.githubusercontent.com/ayanpaul14/ayanpaul14/output/github-contribution-grid-snake-dark.svg" width="100%"/>
   </picture>
 </div>
-
 
 ---
 
@@ -154,7 +153,7 @@ const ayan = {
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayanpaul626@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://subtrack-sooty.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayanpaul14)
-[![MockMentor](https://img.shields.io/badge/MockMentor_AI-Live-6366f1?style=for-the-badge&logo=rocket&logoColor=white)](https://mockmentor-ai.vercel.app)
+[![MockMentor](https://img.shields.io/badge/MockMentor_AI-Live-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://mockmentor-ai.vercel.app)
 
 </div>
 
