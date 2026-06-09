@@ -95,12 +95,12 @@ const ayan = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ayanpaul14&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=8b5cf6&text_color=ffffff&count_private=true" />
+  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ayanpaul14&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=8b5cf6&text_color=ffffff&count_private=true" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayanpaul14&theme=radical&hide_border=true&background=0d1117&ring=6366f1&fire=8b5cf6&currStreakLabel=8b5cf6" />
 </div>
 
 <div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanpaul14&layout=donut&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=ffffff&langs_count=8" />
+  <img width="50%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ayanpaul14&layout=donut&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=ffffff&langs_count=8" />
 </div>
 
 ---
