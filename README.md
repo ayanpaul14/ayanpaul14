@@ -90,9 +90,9 @@ const ayan = {
 |:---:|:---|:---:|:---:|
 | **🎯 MockMentor AI** | AI-powered mock interview platform — AI scoring, Monaco editor, activity heatmap, dark mode, LeetCode-style profile | `React` `Node.js` `MongoDB` `Groq LLaMA` `Three.js` | [**Live ↗**](https://mockmentor-ai.vercel.app) |
 | **📋 SubTrack** | Full-stack subscription manager with smart email alerts and analytics | `React` `Node.js` `MongoDB` | [**Live ↗**](https://subtrack-sooty.vercel.app) |
-| **🗳️ Voting App** | Secure full-stack online voting system with Aadhar-based identity, JWT auth, role-based access, and a live results dashboard | `React` `Node.js` `Express` `MongoDB` `JWT` | [**Repo ↗**](https://github.com/ayanpaul14/voting-app) |
-| **♻️ Waste Classifier** | Deep learning web app that classifies waste into 6 categories in real time using MobileNetV3, with confidence scoring and recycling guidance | `Python` `Flask` `MobileNetV3` | [**Repo ↗**](https://github.com/ayanpaul14/waste-classifier) |
-| **🤖 NotMon AI** | AI-powered productivity and monitoring tool | `React` `Node.js` `AI` | 🔨 In Progress |
+| **🗳️ Voting App** | Secure full-stack online voting system with Aadhar-based identity, JWT auth, role-based access, and a live results dashboard | `React` `Node.js` `Express` `MongoDB` `JWT` | [**Live ↗**](https://voting-app-azure-gamma.vercel.app/) |
+| **♻️ Waste Classifier** | Deep learning web app that classifies waste into 6 categories in real time using MobileNetV3, with confidence scoring and recycling guidance | `Python` `Flask` `MobileNetV3` | [**Live ↗**](https://waste-classifier-abgj.onrender.com/) |
+| **🤖 NotMon AI** | AI-powered productivity and monitoring tool | `React` `Node.js` `AI` | [**Live ↗**](https://notmon-ai.vercel.app/) |
 
 </div>
 
@@ -136,7 +136,7 @@ const ayan = {
 <div align="center">
 
 ```
-🔭 Working On   →  MockMentor AI v2  •  SubTrack v2  •  NotMon AI
+🔭 Working On   →  MockMentor AI v2  •  SubTrack v2  •  Voting App  •  Waste Classifier  •  NotMon AI
 🌱 Learning     →  System Design  •  Machine Learning  •  Cloud Architecture
 💬 Expertise    →  React  •  Node.js  •  MongoDB  •  AI Integration
 📫 Reach Me     →  ayanpaul626@gmail.com
