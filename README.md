@@ -15,6 +15,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=ayanpaul14&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS)](https://github.com/ayanpaul14)
 [![GitHub followers](https://img.shields.io/github/followers/ayanpaul14?style=for-the-badge&color=8b5cf6&label=FOLLOWERS)](https://github.com/ayanpaul14?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/ayanpaul14?style=for-the-badge&color=a5b4fc&label=TOTAL+STARS)](https://github.com/ayanpaul14)
+[![GitHub repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fayanpaul14&label=REPOS&query=%24.public_repos&style=for-the-badge&color=c4b5fd)](https://github.com/ayanpaul14?tab=repositories)
 
 </div>
 
@@ -26,6 +27,7 @@
 const ayan = {
   location    : "Kolkata, West Bengal, India 🇮🇳",
   role        : "Full-Stack Developer & AI/ML Enthusiast",
+  education   : "B.Tech in Computer Science & Engineering",
   currentWork : ["MockMentor AI — Live Interview Prep Platform", "SubTrack — Subscription Manager"],
   learning    : ["System Design", "Machine Learning", "Cloud Architecture"],
   askMeAbout  : ["React", "Node.js", "MongoDB", "Firebase", "Python", "AI Integration"],
@@ -57,12 +59,14 @@ const ayan = {
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### 🤖 AI / ML
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-LLaMA_3.3-f97316?style=for-the-badge&logo=meta&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ### 🔧 Tools & Platforms
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -86,6 +90,8 @@ const ayan = {
 |:---:|:---|:---:|:---:|
 | **🎯 MockMentor AI** | AI-powered mock interview platform — AI scoring, Monaco editor, activity heatmap, dark mode, LeetCode-style profile | `React` `Node.js` `MongoDB` `Groq LLaMA` `Three.js` | [**Live ↗**](https://mockmentor-ai.vercel.app) |
 | **📋 SubTrack** | Full-stack subscription manager with smart email alerts and analytics | `React` `Node.js` `MongoDB` | [**Live ↗**](https://subtrack-sooty.vercel.app) |
+| **🗳️ Voting App** | Secure full-stack online voting system with Aadhar-based identity, JWT auth, role-based access, and a live results dashboard | `React` `Node.js` `Express` `MongoDB` `JWT` | [**Repo ↗**](https://github.com/ayanpaul14/voting-app) |
+| **♻️ Waste Classifier** | Deep learning web app that classifies waste into 6 categories in real time using MobileNetV3, with confidence scoring and recycling guidance | `Python` `Flask` `MobileNetV3` | [**Repo ↗**](https://github.com/ayanpaul14/waste-classifier) |
 | **🤖 NotMon AI** | AI-powered productivity and monitoring tool | `React` `Node.js` `AI` | 🔨 In Progress |
 
 </div>
@@ -151,8 +157,9 @@ const ayan = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayan-paul-0b63a2336)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayanpaul626@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://subtrack-sooty.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://ayan-paul-portfolio.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayanpaul14)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ayanpaul14/)
 [![MockMentor](https://img.shields.io/badge/MockMentor_AI-Live-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://mockmentor-ai.vercel.app)
 
 </div>
