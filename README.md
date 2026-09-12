@@ -114,7 +114,7 @@ const ayan = {
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayanpaul14&bg_color=0d1117&color=8b5cf6&line=6366f1&point=ffffff&area=true&hide_border=true&radius=8" width="100%" alt="Contribution Graph"/>
+  <img src="https://fabianocouto-activity-graph.vercel.app/graph?username=ayanpaul14&bg_color=0d1117&color=8b5cf6&line=6366f1&point=ffffff&area=true&hide_border=true&radius=8" width="100%" alt="Contribution Graph"/>
 </div>
 
 ---
