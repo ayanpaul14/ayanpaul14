@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&repeat=true&width=600&height=50&lines=Building+Full-Stack+Web+Apps;React+%7C+Node.js+%7C+MongoDB;AI+%26+ML+Enthusiast;Turning+Ideas+into+Reality;130%2B+DSA+Problems+Solved;MockMentor+AI+%E2%80%94+Live+Now!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&repeat=true&width=600&height=50&lines=Building+Full-Stack+Web+Apps;React+%7C+Node.js+%7C+MongoDB;AI+%26+ML+Enthusiast;Turning+Ideas+into+Reality;130%2B+DSA+Problems+Solved;Pitchvane+%E2%80%94+Live+Now!" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -27,9 +27,9 @@
 const ayan = {
   location    : "Kolkata, West Bengal, India 🇮🇳",
   role        : "Full-Stack Developer & AI/ML Enthusiast",
-  education   : "B.Tech in Computer Science & Engineering",
-  currentWork : ["MockMentor AI — Live Interview Prep Platform", "SubTrack — Subscription Manager"],
-  learning    : ["System Design", "Machine Learning", "Cloud Architecture"],
+  education   : "B.Tech in Computer Science & Engineering (AI & ML)",
+  currentWork : ["Ayur-IP — SIH 2K26", "Pitchvane — Multi-Agent Startup Feasibility Desk", "DevMesh — Multi-Agent AI Coding Workspace"],
+  learning    : ["System Design", "Agent Orchestration (LangGraph)", "Cloud Architecture"],
   askMeAbout  : ["React", "Node.js", "MongoDB", "Firebase", "Python", "AI Integration"],
   dsa         : "130+ problems solved on LeetCode & GeeksforGeeks 🎯",
   funFact     : "Code is like humor — when you have to explain it, it's bad 😄",
@@ -88,25 +88,34 @@ const ayan = {
 
 | 🚀 Project | 💡 Description | 🔧 Stack | 🌐 |
 |:---:|:---|:---:|:---:|
-| **🎯 MockMentor AI** | AI-powered mock interview platform — AI scoring, Monaco editor, activity heatmap, dark mode, LeetCode-style profile | `React` `Node.js` `MongoDB` `Groq LLaMA` `Three.js` | [**Live ↗**](https://mockmentor-ai.vercel.app) |
+| **🌿 Ayur-IP** | Smart India Hackathon 2K26 solution, deployed with a live frontend | `SIH 2K26` | [**Live ↗**](https://ayur-ip-frontend.vercel.app) · [**Code ↗**](https://github.com/ayanpaul14/SIH-2K26) |
+| **🧭 Pitchvane** | Multi-agent RAG feasibility desk: Market, Competitor, Financial and Risk agents debate a startup idea and a Synthesizer files the verdict | `React` `Node.js` `Socket.IO` `LangGraph` `Groq LLaMA` `Chroma` | [**Live ↗**](https://pitch-vane.vercel.app) · [**Code ↗**](https://github.com/ayanpaul14/PitchVane) |
+| **🕸️ DevMesh** | Final year team project: multi-agent AI coding workspace where Architect, Developer and QA agents collaborate on tasks. I own the frontend | `React` `Vite` `Tailwind` `Socket.IO` `Turborepo` | 🚧 In progress |
+| **🎯 MockMentor AI** | AI-powered mock interview platform: AI scoring, Monaco editor, activity heatmap, dark mode, LeetCode-style profile | `React` `Node.js` `MongoDB` `Groq LLaMA` `Three.js` | [**Live ↗**](https://mockmentor-ai.vercel.app) · [**Code ↗**](https://github.com/ayanpaul14/Mockmentor_AI) |
 | **📋 SubTrack** | Full-stack subscription manager with smart email alerts and analytics | `React` `Node.js` `MongoDB` | [**Live ↗**](https://subtrack-sooty.vercel.app) |
-| **🗳️ Voting App** | Secure full-stack online voting system with Aadhar-based identity, JWT auth, role-based access, and a live results dashboard | `React` `Node.js` `Express` `MongoDB` `JWT` | [**Live ↗**](https://voting-app-azure-gamma.vercel.app/) |
-| **♻️ Waste Classifier** | Deep learning web app that classifies waste into 6 categories in real time using MobileNetV3, with confidence scoring and recycling guidance | `Python` `Flask` `MobileNetV3` | [**Live ↗**](https://waste-classifier-abgj.onrender.com/) |
+| **🗳️ Voting App** | Secure online voting system with Aadhar-based identity, JWT auth, role-based access, and a live results dashboard | `React` `Node.js` `Express` `MongoDB` `JWT` | [**Live ↗**](https://voting-app-azure-gamma.vercel.app/) · [**Code ↗**](https://github.com/ayanpaul14/voting-app) |
+| **♻️ Waste Classifier** | Deep learning web app that classifies waste into 6 categories in real time using MobileNetV3, with confidence scoring and recycling guidance | `Python` `Flask` `MobileNetV3` | [**Live ↗**](https://waste-classifier-abgj.onrender.com/) · [**Code ↗**](https://github.com/ayanpaul14/waste-classifier) |
 | **🤖 NotMon AI** | AI-powered productivity and monitoring tool | `React` `Node.js` `AI` | [**Live ↗**](https://notmon-ai.vercel.app/) |
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub & Problem Solving Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ayanpaul14&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=8b5cf6&text_color=ffffff&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayanpaul14&theme=radical&hide_border=true&background=0d1117&ring=6366f1&fire=8b5cf6&currStreakLabel=8b5cf6" />
+  <img height="195" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ayanpaul14&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=f43f5e&icon_color=f97316&text_color=ffffff&ring_color=f43f5e" alt="GitHub Stats" />
+  <img height="195" src="https://streak-stats.demolab.com/?user=ayanpaul14&hide_border=true&background=0d1117&stroke=30363d&ring=f43f5e&fire=f97316&currStreakNum=facc15&currStreakLabel=f97316&sideNums=ff4d8d&sideLabels=ff4d8d&dates=22d3ee" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img width="50%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ayanpaul14&layout=donut&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=ffffff&langs_count=8" />
+  <img height="260" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ayanpaul14&layout=donut&hide_border=true&bg_color=0d1117&title_color=f43f5e&text_color=ffffff&langs_count=8" alt="Most Used Languages" />
+</div>
+
+<div align="center">
+  <a href="https://leetcode.com/u/ayanpaul14/">
+    <img src="https://leetcard.jacoblin.cool/ayanpaul14?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode Stats" />
+  </a>
 </div>
 
 ---
@@ -114,7 +123,7 @@ const ayan = {
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://fabianocouto-activity-graph.vercel.app/graph?username=ayanpaul14&bg_color=0d1117&color=8b5cf6&line=6366f1&point=ffffff&area=true&hide_border=true&radius=8" width="100%" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayanpaul14&bg_color=0d1117&color=f43f5e&line=f43f5e&point=ffffff&area=true&hide_border=true&radius=8" width="100%" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -136,11 +145,11 @@ const ayan = {
 <div align="center">
 
 ```
-🔭 Working On   →  MockMentor AI v2  •  SubTrack v2  •  Voting App  •  Waste Classifier  •  NotMon AI
-🌱 Learning     →  System Design  •  Machine Learning  •  Cloud Architecture
+🔭 Working On   →  Ayur-IP (SIH 2K26)  •  Pitchvane  •  DevMesh
+🌱 Learning     →  System Design  •  Agent Orchestration  •  Cloud Architecture
 💬 Expertise    →  React  •  Node.js  •  MongoDB  •  AI Integration
 📫 Reach Me     →  ayanpaul626@gmail.com
-🌐 Live Project →  mockmentor-ai.vercel.app
+🌐 Live Project →  pitch-vane.vercel.app
 ```
 
 </div>
@@ -160,7 +169,7 @@ const ayan = {
 [![Portfolio](https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://ayan-paul-portfolio.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayanpaul14)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ayanpaul14/)
-[![MockMentor](https://img.shields.io/badge/MockMentor_AI-Live-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://mockmentor-ai.vercel.app)
+[![Pitchvane](https://img.shields.io/badge/Pitchvane-Live-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://pitch-vane.vercel.app)
 
 </div>
 
