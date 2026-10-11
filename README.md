@@ -48,6 +48,9 @@ const ayan = {
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Recharts](https://img.shields.io/badge/Recharts-22b5bf?style=for-the-badge&logoColor=white)
+![Socket.IO Client](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -60,13 +63,26 @@ const ayan = {
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-Real--Time-6366f1?style=for-the-badge&logoColor=white)
+![Google OAuth](https://img.shields.io/badge/Google_OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-### 🤖 AI / ML
+### 🤖 AI / ML & Agents
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-LLaMA_3.3-f97316?style=for-the-badge&logo=meta&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-Agents-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-LCEL-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Pipelines-8b5cf6?style=for-the-badge&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector_DB-ff6446?style=for-the-badge&logoColor=white)
+![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-Embeddings-f97316?style=for-the-badge&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337ab7?style=for-the-badge&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ### 🔧 Tools & Platforms
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -76,6 +92,10 @@ const ayan = {
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white)
+![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
+![Tavily](https://img.shields.io/badge/Tavily-Search_API-6366f1?style=for-the-badge&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 </div>
@@ -92,10 +112,6 @@ const ayan = {
 | **🧭 Pitchvane** | Multi-agent RAG feasibility desk: Market, Competitor, Financial and Risk agents debate a startup idea and a Synthesizer files the verdict | `React` `Node.js` `Socket.IO` `LangGraph` `Groq LLaMA` `Chroma` | [**Live ↗**](https://pitch-vane.vercel.app) · [**Code ↗**](https://github.com/ayanpaul14/PitchVane) |
 | **🕸️ DevMesh** | Final year team project: multi-agent AI coding workspace where Architect, Developer and QA agents collaborate on tasks. I own the frontend | `React` `Vite` `Tailwind` `Socket.IO` `Turborepo` | 🚧 In progress |
 | **🎯 MockMentor AI** | AI-powered mock interview platform: AI scoring, Monaco editor, activity heatmap, dark mode, LeetCode-style profile | `React` `Node.js` `MongoDB` `Groq LLaMA` `Three.js` | [**Live ↗**](https://mockmentor-ai.vercel.app) · [**Code ↗**](https://github.com/ayanpaul14/Mockmentor_AI) |
-| **📋 SubTrack** | Full-stack subscription manager with smart email alerts and analytics | `React` `Node.js` `MongoDB` | [**Live ↗**](https://subtrack-sooty.vercel.app) |
-| **🗳️ Voting App** | Secure online voting system with Aadhar-based identity, JWT auth, role-based access, and a live results dashboard | `React` `Node.js` `Express` `MongoDB` `JWT` | [**Live ↗**](https://voting-app-azure-gamma.vercel.app/) · [**Code ↗**](https://github.com/ayanpaul14/voting-app) |
-| **♻️ Waste Classifier** | Deep learning web app that classifies waste into 6 categories in real time using MobileNetV3, with confidence scoring and recycling guidance | `Python` `Flask` `MobileNetV3` | [**Live ↗**](https://waste-classifier-abgj.onrender.com/) · [**Code ↗**](https://github.com/ayanpaul14/waste-classifier) |
-| **🤖 NotMon AI** | AI-powered productivity and monitoring tool | `React` `Node.js` `AI` | [**Live ↗**](https://notmon-ai.vercel.app/) |
 
 </div>
 
@@ -104,12 +120,12 @@ const ayan = {
 ## 📊 GitHub & Problem Solving Stats
 
 <div align="center">
-  <img height="195" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ayanpaul14&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=f43f5e&icon_color=f97316&text_color=ffffff&ring_color=f43f5e" alt="GitHub Stats" />
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=ayanpaul14&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=f43f5e&icon_color=f97316&text_color=ffffff&ring_color=f43f5e" alt="GitHub Stats" />
   <img height="195" src="https://streak-stats.demolab.com/?user=ayanpaul14&hide_border=true&background=0d1117&stroke=30363d&ring=f43f5e&fire=f97316&currStreakNum=facc15&currStreakLabel=f97316&sideNums=ff4d8d&sideLabels=ff4d8d&dates=22d3ee" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img height="260" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ayanpaul14&layout=donut&hide_border=true&bg_color=0d1117&title_color=f43f5e&text_color=ffffff&langs_count=8" alt="Most Used Languages" />
+  <img height="260" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanpaul14&layout=donut&hide_border=true&bg_color=0d1117&title_color=f43f5e&text_color=ffffff&langs_count=8" alt="Most Used Languages" />
 </div>
 
 <div align="center">
@@ -123,7 +139,7 @@ const ayan = {
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayanpaul14&bg_color=0d1117&color=f43f5e&line=f43f5e&point=ffffff&area=true&hide_border=true&radius=8" width="100%" alt="Contribution Graph"/>
+  <img src="https://ghchart.rshah.org/f43f5e/ayanpaul14" width="100%" alt="Contribution Graph"/>
 </div>
 
 ---
